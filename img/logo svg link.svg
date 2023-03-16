@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="246" height="86" viewBox="0 0 246 86">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#pattern);
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 727 343">
+      <image width="727" height="343" xlink:href="logo%20svg%20link-image.png"/>
+    </pattern>
+  </defs>
+  <rect id="Rectangle_21" data-name="Rectangle 21" class="cls-1" width="246" height="86"/>
+</svg>

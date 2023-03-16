@@ -1,0 +1,15 @@
+<svg id="Icon_material-call" data-name="Icon material-call" xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect id="Icon_material-call-2" data-name="Icon material-call" class="cls-1" width="27" height="27"/>
+  <path id="Icon_material-call-3" data-name="Icon material-call" class="cls-2" d="M5.43,11.685a22.723,22.723,0,0,0,9.885,9.885l3.3-3.3a1.491,1.491,0,0,1,1.53-.36,17.11,17.11,0,0,0,5.355.855,1.5,1.5,0,0,1,1.5,1.5V25.5A1.5,1.5,0,0,1,25.5,27,25.5,25.5,0,0,1,0,1.5,1.5,1.5,0,0,1,1.5,0H6.75a1.5,1.5,0,0,1,1.5,1.5A17.041,17.041,0,0,0,9.1,6.855a1.5,1.5,0,0,1-.375,1.53Z"/>
+</svg>

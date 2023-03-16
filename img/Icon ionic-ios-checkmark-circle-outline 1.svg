@@ -1,0 +1,18 @@
+<svg id="Icon_ionic-ios-checkmark-circle-outline_1" data-name="Icon ionic-ios-checkmark-circle-outline 1" xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect id="Icon_ionic-ios-checkmark-circle-outline_1-2" data-name="Icon ionic-ios-checkmark-circle-outline 1" class="cls-1" width="33" height="33"/>
+  <g id="Icon_ionic-ios-checkmark-circle-outline" data-name="Icon ionic-ios-checkmark-circle-outline">
+    <path id="Path_22" data-name="Path 22" class="cls-2" d="M17,1.531a.338.338,0,0,1,0,.451L6.392,12.644H6.387a1.467,1.467,0,0,1-.921.437,1.4,1.4,0,0,1-.929-.451L.095,8.187a.316.316,0,0,1,0-.451L1.507,6.323a.307.307,0,0,1,.445,0L5.473,9.844,15.151.1A.288.288,0,0,1,15.376,0h0A.3.3,0,0,1,15.6.1L17,1.531Z" transform="translate(7.964 9.963)"/>
+    <path id="Path_23" data-name="Path 23" class="cls-2" d="M16.5,2.221a14.273,14.273,0,1,0,9.053,3.243A14.185,14.185,0,0,0,16.5,2.221ZM16.5,0A16.5,16.5,0,1,1,7.333,2.781,16.5,16.5,0,0,1,16.5,0Z" transform="translate(0 0)"/>
+  </g>
+</svg>

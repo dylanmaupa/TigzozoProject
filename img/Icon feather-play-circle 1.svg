@@ -1,0 +1,21 @@
+<svg id="Icon_feather-play-circle_1" data-name="Icon feather-play-circle 1" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #742296;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <rect id="Icon_feather-play-circle_1-2" data-name="Icon feather-play-circle 1" class="cls-1" width="40" height="40"/>
+  <g id="Icon_feather-play-circle" data-name="Icon feather-play-circle">
+    <path id="Path_24" data-name="Path 24" class="cls-2" d="M36.364,18.182a18.182,18.182,0,1,1-1.384-6.958A18.182,18.182,0,0,1,36.364,18.182Z" transform="translate(1.818 1.818)"/>
+    <path id="Path_25" data-name="Path 25" class="cls-2" d="M0,0,10.909,7.273,0,14.545Z" transform="translate(16.364 12.727)"/>
+  </g>
+</svg>
